@@ -14,7 +14,7 @@
 
 
 ### Connect with me!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virajbora/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vitaj_bora_8/) [<img src = "https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/virajbora)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virajbora/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vitaj_bora_8) [<img src = "https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/virajbora)
 
 
 <!--

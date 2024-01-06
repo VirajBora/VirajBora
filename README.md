@@ -5,7 +5,7 @@
 🎓 I’m an Analyst and I have completed my Bachelor of Science in Computer Science. <br>
 👨‍💻 Passionate about Data Science, Machine Learning & I enjoy learning new things. <br>
 🌱 Currently pursing Master of Science in Data Science & Big Data Analytics. <br>
-📫 Reach me at virajbora3029@gmail.com <br>
+📫 Reach me at virajbora30@gmail.com <br>
 
 
 ### My Tech Stack

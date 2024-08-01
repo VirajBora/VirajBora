@@ -9,7 +9,7 @@
 
 
 ### My Tech Stack
-<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Science-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-Power BI-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Science-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-Power BI-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-PowerBI-brightgreen?style=for-the-badge">
 <br>
 
 

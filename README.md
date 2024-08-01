@@ -2,9 +2,9 @@
 
 <h3>About Me</h3>
 
-🎓 I’m an Analyst and I have completed my Bachelor of Science in Computer Science. <br>
+🎓 I have completed my Master of science in data science and big data analytics and I have completed my Bachelor of Science in Computer Science. <br>
 👨‍💻 Passionate about Data Science, Machine Learning & I enjoy learning new things. <br>
-🌱 Currently pursing Master of Science in Data Science & Big Data Analytics. <br>
+🌱 Currently pursuing Master of Science in Data Science & Big Data Analytics. <br>
 📫 Reach me at virajbora30@gmail.com <br>
 
 

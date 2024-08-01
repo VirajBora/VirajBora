@@ -4,7 +4,7 @@
 
 🎓 I have completed my Master of science in data science and big data analytics and I have completed my Bachelor of Science in Computer Science. <br>
 👨‍💻 Passionate about Data Science, Machine Learning & I enjoy learning new things. <br>
-🌱 Currently pursuing Master of Science in Data Science & Big Data Analytics. <br>
+🌱 Currently looking for job opportunities like data analyst, data scientist, data engineer. <br>
 📫 Reach me at virajbora30@gmail.com <br>
 
 
